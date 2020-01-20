@@ -1,7 +1,7 @@
 module.exports = {
   ...require('./jest.js'),
   clearMocks: true,
-  collectCoverage: true,
+  collectCoverage: false,
   collectCoverageFrom: [
     'src/**/*.{ts,tsx}',
     '!src/test/helpers/**/*.*',
