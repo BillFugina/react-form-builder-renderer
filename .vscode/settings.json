@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "jest.pathToConfig": "jest-unit.js",
+  "jestTestExplorer.pathToJestConfig": "jest-unit.js",
+  "prettier.stylelintIntegration": true,
+  "prettier.tslintIntegration": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.extension.sortImports.omitSemicolon": true,
+  "prettier.semi": false
+}

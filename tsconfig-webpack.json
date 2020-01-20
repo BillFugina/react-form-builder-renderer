@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "baseUrl": "./src",
+    "module": "commonjs",
+    "target": "es5",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "inlineSources": true
+  }
+}
